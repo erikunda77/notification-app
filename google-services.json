@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1020665647810",
+    "project_id": "testnt-2f37d",
+    "storage_bucket": "testnt-2f37d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020665647810:android:df24da85d91e93dc01215b",
+        "android_client_info": {
+          "package_name": "com.cantona77.notifapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020665647810-n7c973frmi46tt3dcr0bub2baptkkimj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cantona77.notifapp",
+            "certificate_hash": "c00e640f2bdefe4e4065260a6fc147122689cd88"
+          }
+        },
+        {
+          "client_id": "1020665647810-po7406r3t09p3jsgvnrjue65j5goprse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cantona77.notifapp",
+            "certificate_hash": "2898bb0e84123f4486a772e35c7ca245bd0db358"
+          }
+        },
+        {
+          "client_id": "1020665647810-f96mg0bdhdp30am66japk24or308s136.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfjy_CRQ410-EEhKHAHNYDvDlPdVP3TTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020665647810-f96mg0bdhdp30am66japk24or308s136.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
